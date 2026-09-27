@@ -69,19 +69,6 @@ A backend application that generates OTPs, sends them through email, and verifie
 
 ---
 
-### 💰 Loan Calculator
-**React • JavaScript**
-
-A React-based loan calculator that allows users to calculate loan-related values through an interactive interface.
-
-**Focus:**
-- React components
-- State management
-- Form handling
-- Dynamic calculations
-
----
-
 ### 🎨 Razer Clone
 **HTML • CSS**
 
